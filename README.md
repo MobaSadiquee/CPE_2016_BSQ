@@ -2,7 +2,6 @@
 
 EPITECH first year project.
 
-Find the biggest square, in C.
 Finds the biggest square in a map full of "." and "o".
 
 ## Requirements
